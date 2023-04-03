@@ -1,0 +1,20 @@
+{
+  "name": "simple-ts-api",
+  "version": "1.0.0",
+  "description": "Uma API simples com TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcbrauna/simple-ts-api.git"
+  },
+  "keywords": [],
+  "author": "Ryan de Carvalho Brauna (rcarvalhobrauna@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcbrauna/simple-ts-api/issues"
+  },
+  "homepage": "https://github.com/rcbrauna/simple-ts-api#readme"
+}
